@@ -42,7 +42,7 @@ body {
   font-family: "Poppins", sans-serif;
   color: var(--color-dark);
   background: var(--color-light);
-  overflow: hidden;
+  overflow: auto;
 }
 
 /* GENERAL STYLES */
